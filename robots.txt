@@ -1,0 +1,32 @@
+# robots.txt for pixelgarage.in
+# Allow all reputable crawlers, including AI answer engines (AEO/AIO)
+
+User-agent: *
+Allow: /
+
+# Explicitly welcome AI crawlers so PixelGarage can be cited in AI answers
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+Sitemap: https://pixelgarage.in/sitemap.xml

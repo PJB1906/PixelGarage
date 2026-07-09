@@ -1,0 +1,16 @@
+{
+  "name": "PixelGarage",
+  "short_name": "PixelGarage",
+  "description": "Software studio building iOS & Android apps, websites and backends from scratch to launch.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1c1633",
+  "theme_color": "#1c1633",
+  "icons": [
+    {
+      "src": "logo.png",
+      "sizes": "1254x360",
+      "type": "image/png"
+    }
+  ]
+}
